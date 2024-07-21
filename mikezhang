@@ -3,7 +3,7 @@ name: mypage
 on:
   push:
     branches:
-      - main  # 或者你选择的其他分支
+      - main
 
 jobs:
   build:
