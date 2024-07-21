@@ -24,7 +24,7 @@ Hello! I am **[Your Name]**, an IT professional with 5 years of experience in th
 
 ## Projects
 
-### [Project Name]
+### [Data Analysis With Chatgpt For Excel Data Documents]
 *Description: A brief description of the project.*
 
 - **Responsibility 1**: Describe your role and contributions to this project.
