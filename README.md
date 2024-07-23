@@ -29,7 +29,7 @@ Hello! I am **[Your Name]**, an IT professional with 5 years of experience in th
 - **Responsibility 2**: Describe your role and contributions to this project.
 - **Responsibility 3**: Describe your role and contributions to this project.
 
-### [use openai api to develop a fine-tuned llms]
+### [use openai api to develop a fine-tuned llms--for customer revies]
 *Description: A brief description of the project.*
 
 - **Responsibility 1**: Describe your role and contributions to this project.
