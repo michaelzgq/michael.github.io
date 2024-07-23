@@ -1,5 +1,3 @@
-# michael.github.io
-
 # Resume
 
 ## About Me
